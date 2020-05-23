@@ -3,15 +3,23 @@
 This tutorial is a simplified version of the [one](https://tanzu.vmware.com/tutorials/getting-started/introduction) documented by [Pivotal](https://tanzu.vmware.com/).
 
 ## Initial Setup
-- Ensure you have a PAS account.
-- Download and install the [Cloud Foundry Command Line Interface](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) (cf CLI).
-- Test that the cf CLI works:
-  > `cf help`
-- Download the app with git:
-  > `git clone https://github.com/cloudfoundry-samples/cf-sample-app-spring.git`
-- Navigate to the app directory:
-  > `cd cf-sample-app-spring`
 
+- Ensure you have a PAS account.
+
+- Download and install the [Cloud Foundry Command Line Interface](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) (cf CLI).
+
+- Test that the cf CLI works:
+
+  > `cf help`
+  
+- Download the app with git:
+
+  > `git clone https://github.com/cloudfoundry-samples/cf-sample-app-spring.git`
+  
+- Navigate to the app directory:
+
+  > `cd cf-sample-app-spring`
+  
 ## 15-minute tutorial for learning PAS app deployment concepts
 - Open a Terminal windows.
 - Navigate to the app directory:
